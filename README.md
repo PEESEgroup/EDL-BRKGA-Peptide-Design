@@ -1,6 +1,9 @@
 # EDL-BRKGA-Peptide-Design
+- This repository presents a novel computational framework that integrates biophysics-based simulations (PepBD) with evidential deep learning (EDL) and metaheuristic search to accelerate the design of plastic-binding peptides.
 
-## LICENSE: Attribution-NonCommercial 4.0 International 
+- The framework leverages the predictive power of EDL to efficiently explore the vast peptide sequence space, while incorporating uncertainty quantification to prioritize promising candidates.
+
+- Molecular dynamics simulations validate the efficacy of the designed peptides, demonstrating their superior binding affinity compared to existing solutions, thus opening a new avenue for bio-inspired microplastic remediation strategies.
 
 ## Citation
 ```
@@ -45,4 +48,6 @@ git clone https://github.com/anyoptimization/pymoo
 cd pymoo
 pip install .
 ```
- 
+
+## LICENSE: Attribution-NonCommercial 4.0 International 
+
