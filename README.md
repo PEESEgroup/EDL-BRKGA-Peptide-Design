@@ -1,5 +1,5 @@
 # EDL-BRKGA-Peptide-Design
-- This repository presents a novel computational framework that integrates biophysics-based simulations (PepBD) with evidential deep learning (EDL) and metaheuristic search to accelerate the design of plastic-binding peptides.
+- This repository presents a novel computational framework that integrates the biophysics-based Peptide Binder Design (PepBD) algorithm with evidential deep learning (EDL) and metaheuristic search to accelerate the design of plastic-binding peptides.
 
 - The framework leverages the predictive power of EDL to efficiently explore the vast peptide sequence space, while incorporating uncertainty quantification to prioritize promising candidates.
 
