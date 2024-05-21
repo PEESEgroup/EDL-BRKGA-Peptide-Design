@@ -21,10 +21,10 @@ abstract = {}
 # About
 
 ## Overview
-* `1 Data/` contains PepBD data and EDL results
+* `1 Data/` contains PepBD data results
 * `2 Models/` contains EDL moddels
 * `3 Codes/` contains peptide representation and genetic algorithm generation methods
-* `4 Results/` contains the results of the molecular dynamic simulations and comparisons
+* `4 Results/` contains the results of EDL and molecular dynamic simulations along with molecular dynamics comparisons between PepBD and EDL
 
 ## Requirements
 * python (>=3.7)
