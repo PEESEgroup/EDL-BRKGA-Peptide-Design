@@ -23,7 +23,7 @@ abstract = {}
 ## Overview
 * `1 Data/` contains PepBD data and EDL results
 * `2 Models/` contains EDL moddels
-* `3 BRKGA/` contains genetic algorithm generation methods
+* `3 Codes/` contains peptide representation and genetic algorithm generation methods
 * `4 Results/` contains the results of the molecular dynamic simulations and comparisons
 
 ## Requirements
